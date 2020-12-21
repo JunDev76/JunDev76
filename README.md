@@ -1,4 +1,5 @@
-### 반갑습니다
-## 안녕하세요. 저는 '팀크로스' 를 운영하는 준입니다
+# WELCOME TO MY GITHUB.!
 
-저는 '마인크래프트BE' 라는 게임 소프트웨어에서 서버를 운영하며 PHP로 개발을 하고 있습니다
+I am mainly developing Pocketmine-MP plugin.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JUN-KR)](https://github.com/JUN-KR/github-readme-stats)
