@@ -4,8 +4,8 @@
 
 HI~! 😋
 
-프로그래밍을 사랑하는 개발자 지망생입니다!
-I'm aspiring developer who loves programming!
+<p>프로그래밍을 사랑하는 개발자 지망생입니다!</p>
+<p>I'm aspiring developer who loves programming!</p>
 
 ## 💯Programming  Skills
 <p>
