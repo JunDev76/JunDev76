@@ -30,7 +30,7 @@ HI~! 😋
 <img src="https://jundev.me/github/main_readme/discordjs" height=90>
 <img src="https://devs.powernukkit.org/assets/images/powernukkit-top-logo.png" height=90>
 <img src="https://jundev.me/github/main_readme/pocketmine" width=200>
-<img src="https://avatars.githubusercontent.com/u/77800057?s=280&v=4" width=200>
+<img src="https://avatars.githubusercontent.com/u/77800057?s=280&v=4" width=100>
   </a>
 </p>
 
