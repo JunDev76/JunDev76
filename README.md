@@ -2,9 +2,7 @@
 
 # WELCOME TO MY GITHUB.!
 
-Welcome to my github~! 😋
-I', currently working on a Github introductory page.
-Please visit again next time :)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=🗂️&fontSize=45&animation=scaleIn&fontColor=ffffff&desc=Here%20is%20JunDev76's%20Github.&fontAlignY=35&descAlignY=53)
 
 [포트폴리오 보기](https://jundev.me)
 
