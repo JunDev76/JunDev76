@@ -53,6 +53,7 @@ My Stacks⭐
          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/ExpressJS-red?style=for-the-badge&logo=express&logoColor=white">
          </p>
 </div>
 <div>
@@ -67,7 +68,6 @@ My Stacks⭐
     <div>
        <p align="center">Etc...      </p>
   </div>     <p align="center">
-    <img src="https://img.shields.io/badge/ExpressJS-red?style=for-the-badge&logo=TypeScript&logoColor=white">
    <img src="https://img.shields.io/badge/PocketMine MP-blue?style=for-the-badge&logo=&logoColor=white">
    <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white">
    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
