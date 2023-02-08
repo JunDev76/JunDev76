@@ -61,7 +61,7 @@ My Stacks⭐
        <p align="center">Application      </p>
   </div>     <p align="center">
    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=TypeScript&logoColor=white">
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
          </p>
 </div>
   <div>
