@@ -76,12 +76,13 @@ My Stacks⭐
    <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
    <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=black">
          </p>
-
-   <p>
-     ```SQL
-     ORDER BY JunDev76.CONFIDENCE DESC
-     ```
-   </p>
 </div>
+
+<br>
+<br>
+<br>
+<p>
+     ORDER BY JunDev76.CONFIDENCE DESC
+   </p>
 </p>
 
