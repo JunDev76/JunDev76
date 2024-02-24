@@ -1,5 +1,6 @@
 
 
+
 # WELCOME TO MY GITHUB :>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=🗂️&fontSize=45&animation=scaleIn&fontColor=ffffff&desc=Here%20is%20JunDev76's%20Github.&fontAlignY=35&descAlignY=53)
@@ -81,12 +82,10 @@ My Stacks⭐
 <br>
 <br>
 <br> 
-<p>
-<center>
+<p align="center">
 
      ORDER BY JunDev76.CONFIDENCE DESC
 
-</center>  
 </p>
 </p>
 
