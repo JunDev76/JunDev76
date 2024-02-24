@@ -29,10 +29,10 @@ My Stacks⭐
   </div>
          <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white">
-     <img src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=Apache&logoColor=white">
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
      <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
+     <img src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=Apache&logoColor=white">
          </p>
   </div>
   <div>
@@ -54,8 +54,8 @@ My Stacks⭐
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  
          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/ExpressJS-red?style=for-the-badge&logo=express&logoColor=white">
+   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
          </p>
 </div>
 <div>
@@ -63,6 +63,7 @@ My Stacks⭐
        <p align="center">Application      </p>
   </div>     <p align="center">
    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=ReactNative&logoColor=white">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
          </p>
 </div>
@@ -70,12 +71,11 @@ My Stacks⭐
     <div>
        <p align="center">Etc...      </p>
   </div>     <p align="center">
-   <img src="https://img.shields.io/badge/PocketMine MP-blue?style=for-the-badge&logo=&logoColor=white">
    <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white">
+   <img src="https://img.shields.io/badge/PocketMine MP-blue?style=for-the-badge&logo=&logoColor=white">
    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
      <img src="https://img.shields.io/badge/Chrome Extension-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=white">
    <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-   <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=black">
          </p>
 </div>
 
