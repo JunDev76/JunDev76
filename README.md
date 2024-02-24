@@ -81,8 +81,10 @@ My Stacks⭐
 <br>
 <br>
 <br>
-<p>
+<center>
+  <p>
      ORDER BY JunDev76.CONFIDENCE DESC
    </p>
+</center>
 </p>
 
