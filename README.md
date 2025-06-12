@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=💻&fontSize=45&animation=scaleIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Passionate%20about%20modern%20web%20technologies&fontAlignY=35&descAlignY=53)
 
 ## 🚀 About Me
-- 💡 I love **Prompt Engineering** and exploring AI possibilities
-- 🔧 Full-stack developer with expertise in modern web technologies
+- 🔧 Full-stack developer with expertise in modern UNIVERSAL technologies
 - 🌱 Always learning and experimenting with new technologies
 - ⚡ Passionate about building efficient, scalable applications
 
@@ -63,10 +62,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Building the future, one commit at a time"</i>
-</p>
 
 <p align="center">
   <strong>ORDER BY JunDev76.PASSION DESC</strong>
