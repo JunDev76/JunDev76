@@ -1,85 +1,42 @@
-# Hi there! 👋 Welcome to JunDev76's GitHub
+# 일상을 바꾸는 개발자, 장우준입니다.
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=💻&fontSize=45&animation=scaleIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Passionate%20about%20modern%20web%20technologies&fontAlignY=35&descAlignY=53)
+작은 불편함을 발견하면 직접 만들어서 해결합니다.  
+기획부터 배포까지, 아이디어를 현실로 만드는 과정을 즐깁니다.  
+지금 이 순간에도 제 일상을 제 손으로 바꿔나가고 있습니다.
 
-## 🚀 About Me
-- 🔧 Full-stack developer with expertise in modern UNIVERSAL technologies
-- 🌱 Always learning and experimenting with new technologies
-- ⚡ Passionate about building efficient, scalable applications
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
-</p>
-
-### 🌐 Frontend & Web
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-</p>
-
-### 🔧 Backend & Runtime
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=Bun&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white">
-</p>
-
-### 🗄️ Database & Cache
-<p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-</p>
-
-### 📱 Mobile & Desktop
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-</p>
-
-### 🛠️ Tools & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=white">
-</p>
-
-### 🤖 AI & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=OpenAI&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-</p>
+[![](https://img.shields.io/badge/Portfolio-woojun.dev-000000?style=for-the-badge)](https://woojun.dev)
+[![](https://img.shields.io/badge/Email-im%40woojun.dev-000000?style=for-the-badge)](mailto:im@woojun.dev)
 
 ---
 
-<p align="center">
-  <strong>ORDER BY JunDev76.PASSION DESC</strong>
-</p>
+## 만든 것들
+
+무언가 불편하다고 느낀 순간, 그게 곧 프로젝트의 시작이었습니다.
+
+| 프로젝트 | 설명 |
+|---|---|
+| [워디](https://woojun.dev) | 잊을 때쯤 복습하는 AI 단어장 |
+| [뭐랑고랑](https://woojun.dev) | 소멸위기 언어 제주어를 보존하는 번역 서비스 |
+| [아카데밍](https://woojun.dev) | 학원 통합 관리 솔루션 |
+| [모고모고](https://woojun.dev) | 모의고사 기출 서빙 플랫폼 |
+| [Feistly](https://woojun.dev) | ID 암호화 오픈소스 |
+
+더 많은 프로젝트와 상세 내용은 **[woojun.dev](https://woojun.dev)** 에서 볼 수 있습니다.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunDev76&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</p>
+## 기술 스택
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunDev76&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
+`Next.js` `React Native` `TypeScript` `NestJS` `Flutter` `PostgreSQL`
+
+최근에는 LLM · RAG 기반 서비스 개발에 집중하고 있습니다.
 
 ---
 
-<p align="center">
-  <strong>💭 "Code is poetry written in logic"</strong>
-</p>
+## 걸어온 길
+
+- **2019** — 마인크래프트 서버 운영, PHP 독학으로 코딩 시작
+- **2020–2022** — 크로스팜 개발·운영, 9인 팀 리딩, 누적 접속자 3만 명
+- **2023** — React 전환, 모던 프론트엔드 생태계로
+- **2024** — Next.js · NestJS 풀스택, 실사용 서비스 다수 출시
+- **2025** — LLM · RAG 기반 프로덕트, 오픈소스, 앱스토어 출시
