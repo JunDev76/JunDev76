@@ -19,7 +19,7 @@
 | [뭐랑고랑](https://morang.kr) | 소멸위기 언어 제주어를 보존하는 번역 서비스 |
 | [아카데밍](https://woojun.dev/?project=academing) | 학원 통합 관리 솔루션 |
 | [모고모고](https://woojun.dev/?project=mogogo) | 모의고사 기출 서빙 플랫폼 |
-| [Feistly]([https://woojun.dev](https://github.com/JunDev76/feistly)) | ID 암호화 오픈소스 |
+| [Feistly](https://github.com/JunDev76/feistly) | ID 암호화 오픈소스 ([npm](https://www.npmjs.com/package/feistly)) |
 
 더 많은 프로젝트와 상세 내용은 **[woojun.dev](https://woojun.dev)** 에서 볼 수 있습니다.
 
