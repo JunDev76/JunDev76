@@ -27,7 +27,7 @@
 
 ## 기술 스택
 
-`Next.js` `React Native` `TypeScript` `NestJS` `Flutter` `PostgreSQL`
+`Next.js` `React Native` `TypeScript` `NestJS` `Flutter` `MariaDB`
 
 최근에는 LLM · RAG 기반 서비스 개발에 집중하고 있습니다.
 
