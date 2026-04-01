@@ -17,6 +17,7 @@
 |---|---|
 | [워디](https://woojun.dev/?project=wordie) | 잊을 때쯤 복습하는 AI 단어장 |
 | [뭐랑고랑](https://morang.kr) | 소멸위기 언어 제주어를 보존하는 번역 서비스 |
+| [키링클](https://woojun.dev/?project=keyrincle) | AI로 만드는 커스텀 키링 · 굿즈 제작 서비스 |
 | [아카데밍](https://woojun.dev/?project=academing) | 학원 통합 관리 솔루션 |
 | [모고모고](https://woojun.dev/?project=mogogo) | 모의고사 기출 서빙 플랫폼 |
 | [Feistly](https://github.com/JunDev76/feistly) | ID 암호화 오픈소스 ([npm](https://www.npmjs.com/package/feistly)) |
